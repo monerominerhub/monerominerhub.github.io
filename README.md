@@ -289,7 +289,7 @@ Beiträge sind willkommen! Mögliche Verbesserungen:
 ## 📞 Support
 
 Für Fragen oder Probleme:
-- GitHub Issues: https://github.com/MineMoneroNetwork/minemoneronetwork.github.io/issues
+- GitHub Issues: https://github.com/monerominerhub/monerominerhub.github.io/issues
 - Monero Community: https://www.reddit.com/r/Monero/
 
 ## 🎉 Danksagungen
